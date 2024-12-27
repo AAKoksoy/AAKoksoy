@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Cypher
 - 💞️ I’m looking forward to collaborations with good hypotheses and out of the box approach,
 - 📫 How to reach me ayseakoksoy@gmail.com
-- 😄 I always find biology and nature fascinating.
+- 😄 I always find physiology/biophysics and nature fascinating.
 - ⚡ Fun fact: I adopted a 2 year old small breed mix from shelter and its the most wholesome decision I made. 
 
 <!---
