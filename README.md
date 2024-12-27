@@ -4,7 +4,7 @@
 - 💞️ I’m looking forward to collaborations with good hypotheses and out of the box approach,
 - 📫 How to reach me ayseakoksoy@gmail.com
 - 😄 I always find physiology/biophysics and nature fascinating.
-- ⚡ Fun fact: I adopted a 2 year old small breed mix from shelter and its the most wholesome decision I made. 
+- ⚡ Fun fact: I have another site in GitHub @ak1920. 
 
 <!---
 AAKoksoy/AAKoksoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
