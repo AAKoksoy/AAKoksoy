@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayse Aslihan Koksoy @AAKoksoy
-- 👀 I’m interested in Bioimages and Spatial Single Cell Biology 
+- 👀 I’m interested in asking good questions and finding answers,
 - 🌱 I’m currently learning Cypher
 - 💞️ I’m looking forward to collaborations with good hypotheses and out of the box approach,
 - 📫 How to reach me ayseakoksoy@gmail.com
